@@ -9,7 +9,7 @@
 // Last update: 04-04-2019
 //
 // ABOUT THE SCRIPT
-// This scripts automatically ads a bidadjustment to every hour
+// This scripts automatically adds a bidadjustment to every hour
 // of the day, based of historical CPA. The CPA of the current and
 // upcoming 5 hours will be compared to the campaign CPA and a 
 // bidadjustment will be set accordingly.
